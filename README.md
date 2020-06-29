@@ -1,4 +1,4 @@
-# APPL1 181524023 SOLID
+# APPL1 : PRINSIP SOLID
 
 Latihan prinsip SOLID dalam pemrograman oleh Nadia Melyani 181524023.
 
